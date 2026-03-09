@@ -1,5 +1,5 @@
 ---
-name: cpf_cnpj_validator
+name: cpf-cnpj-validator
 description: Provides tools to validate and format Brazilian documents (CPF and CNPJ).
 ---
 
